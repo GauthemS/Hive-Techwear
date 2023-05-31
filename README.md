@@ -7,9 +7,9 @@
 
 ## Live Demo
 
-Check out [FRONTEND LIVE DEMO]() here!!
+Check out [FRONTEND LIVE DEMO](https://hive-techwear-1.gauthemselvam.repl.co) here!!
 
-Check out [API LIVE DEMO]() here!!
+Check out [API LIVE DEMO](https://hive-techwear.gauthemselvam.repl.co) here!!
 
 ## Tech used
 
